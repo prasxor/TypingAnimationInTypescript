@@ -3,6 +3,10 @@
 
 This project is a simple typing animation website that displays dynamic text with a typing effect using HTML, CSS, and JavaScript. The animations are created using the [Typed.js](<https://github.com/mattboldt/typed.js/>) library.
 
+## Screenshots
+![Screenshot 2024-08-30 211903](https://github.com/user-attachments/assets/9811e113-f79f-43bd-91a6-5113316ddc74)
+![Screenshot 2024-08-30 211934](https://github.com/user-attachments/assets/ec9ac525-c48e-499e-b126-a81d05ad8316)
+
 ## Demo
 
 https://prasxor.github.io/TypingAnimationInTypescript/
