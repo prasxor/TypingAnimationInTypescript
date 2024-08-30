@@ -1,11 +1,11 @@
-```markdown
+
 # Typing Animation Website
 
 This project is a simple typing animation website that displays dynamic text with a typing effect using HTML, CSS, and JavaScript. The animations are created using the [Typed.js](<https://github.com/mattboldt/typed.js/>) library.
 
 ## Demo
 
-[Live Demo](#) - You can include a link to a live demo if you have deployed the website.
+https://prasxor.github.io/TypingAnimationInTypescript/
 
 ## Features
 
@@ -24,14 +24,14 @@ This project is a simple typing animation website that displays dynamic text wit
 1. **Clone the Repository:**
 
    ```bash
-   git clone <https://github.com/yourusername/typing-animation-website.git>
+   git clone <https://github.com/prasxor/TypingAnimationInTypescript.git>
 
 ```
 
 1. **Navigate to the Project Directory:**
     
     ```bash
-    cd typing-animation-website
+    cd typingAnimationInTypescript
     
     ```
     
