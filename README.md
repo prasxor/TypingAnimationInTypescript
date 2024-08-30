@@ -22,11 +22,8 @@ https://prasxor.github.io/TypingAnimationInTypescript/
 ## Installation
 
 1. **Clone the Repository:**
-
-   ```bash
+   
    git clone <https://github.com/prasxor/TypingAnimationInTypescript.git>
-
-```
 
 1. **Navigate to the Project Directory:**
     
