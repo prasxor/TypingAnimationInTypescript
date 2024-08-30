@@ -22,8 +22,9 @@ https://prasxor.github.io/TypingAnimationInTypescript/
 ## Installation
 
 1. **Clone the Repository:**
-   
+   ```bash
    git clone <https://github.com/prasxor/TypingAnimationInTypescript.git>
+   ```
 
 1. **Navigate to the Project Directory:**
     
@@ -100,7 +101,7 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 - [Typed.js](https://github.com/mattboldt/typed.js/) for providing the typing animation functionality.
 - [Google Fonts](https://fonts.google.com/) for the Poppins font used in the project.
 
-```
+
 
 ### Instructions for Use:
 
@@ -109,4 +110,3 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 3. **Adjust the project description** as needed to better reflect your specific implementation.
 
 This `README.md` provides a comprehensive overview of the project, making it easier for others to understand and use your code.
-```
